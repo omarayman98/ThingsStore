@@ -22,4 +22,24 @@
         android:name="com.example.mystore.ui.Category.CategoryFragment"
         android:label="@string/Category"
         tools:layout="@layout/fragment_category" />
+    <fragment
+        android:id="@+id/offersFragment"
+        android:name="com.example.mystore.Fragments.OffersFragment"
+        android:label="fragment_offers"
+        tools:layout="@layout/fragment_offers" />
+    <fragment
+        android:id="@+id/newProductsFragment"
+        android:name="com.example.mystore.Fragments.NewProductsFragment"
+        android:label="fragment_new_products"
+        tools:layout="@layout/fragment_new_products" />
+    <fragment
+        android:id="@+id/myOrdersFragment"
+        android:name="com.example.mystore.Fragments.MyOrdersFragment"
+        android:label="fragment_my_orders"
+        tools:layout="@layout/fragment_my_orders" />
+    <fragment
+        android:id="@+id/myCartFragment"
+        android:name="com.example.mystore.Fragments.MyCartFragment"
+        android:label="fragment_my_cart"
+        tools:layout="@layout/fragment_my_cart" />
 </navigation>

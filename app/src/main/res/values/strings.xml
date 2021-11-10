@@ -10,4 +10,11 @@
     <string name="Home">Home</string>
     <string name="Profile">Profile</string>
     <string name="Category">Category</string>
+    <string name="MyCart">My Cart</string>
+    <string name="MyOrders">My Orders</string>
+    <string name="NewProduct">New Products</string>
+    <string name="Offers">Offers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
